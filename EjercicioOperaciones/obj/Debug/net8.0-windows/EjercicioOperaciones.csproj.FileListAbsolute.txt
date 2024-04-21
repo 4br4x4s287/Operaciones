@@ -1,0 +1,16 @@
+C:\Users\leone\Documents\programacion.net\EjercicioOperaciones\bin\Debug\net8.0-windows\EjercicioOperaciones.exe
+C:\Users\leone\Documents\programacion.net\EjercicioOperaciones\bin\Debug\net8.0-windows\EjercicioOperaciones.deps.json
+C:\Users\leone\Documents\programacion.net\EjercicioOperaciones\bin\Debug\net8.0-windows\EjercicioOperaciones.runtimeconfig.json
+C:\Users\leone\Documents\programacion.net\EjercicioOperaciones\bin\Debug\net8.0-windows\EjercicioOperaciones.dll
+C:\Users\leone\Documents\programacion.net\EjercicioOperaciones\bin\Debug\net8.0-windows\EjercicioOperaciones.pdb
+C:\Users\leone\Documents\programacion.net\EjercicioOperaciones\obj\Debug\net8.0-windows\EjercicioOperaciones.Form1.resources
+C:\Users\leone\Documents\programacion.net\EjercicioOperaciones\obj\Debug\net8.0-windows\EjercicioOperaciones.csproj.GenerateResource.cache
+C:\Users\leone\Documents\programacion.net\EjercicioOperaciones\obj\Debug\net8.0-windows\EjercicioOperaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leone\Documents\programacion.net\EjercicioOperaciones\obj\Debug\net8.0-windows\EjercicioOperaciones.AssemblyInfoInputs.cache
+C:\Users\leone\Documents\programacion.net\EjercicioOperaciones\obj\Debug\net8.0-windows\EjercicioOperaciones.AssemblyInfo.cs
+C:\Users\leone\Documents\programacion.net\EjercicioOperaciones\obj\Debug\net8.0-windows\EjercicioOperaciones.csproj.CoreCompileInputs.cache
+C:\Users\leone\Documents\programacion.net\EjercicioOperaciones\obj\Debug\net8.0-windows\EjercicioOperaciones.dll
+C:\Users\leone\Documents\programacion.net\EjercicioOperaciones\obj\Debug\net8.0-windows\refint\EjercicioOperaciones.dll
+C:\Users\leone\Documents\programacion.net\EjercicioOperaciones\obj\Debug\net8.0-windows\EjercicioOperaciones.pdb
+C:\Users\leone\Documents\programacion.net\EjercicioOperaciones\obj\Debug\net8.0-windows\EjercicioOperaciones.genruntimeconfig.cache
+C:\Users\leone\Documents\programacion.net\EjercicioOperaciones\obj\Debug\net8.0-windows\ref\EjercicioOperaciones.dll
